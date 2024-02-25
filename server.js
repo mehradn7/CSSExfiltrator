@@ -3,7 +3,7 @@ const url = require('url');
 
 const port = 5001;
 const HOSTNAME = "http://localhost:5001";
-const DEBUG = true;
+const DEBUG = false;
 
 
 const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789=@-!\#$%&()*+,./:;<=>?[\]^_`{|}~'.split('');
